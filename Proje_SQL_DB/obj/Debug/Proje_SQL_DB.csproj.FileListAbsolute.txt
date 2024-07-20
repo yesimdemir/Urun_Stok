@@ -1,0 +1,13 @@
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.exe.config
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.exe
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.pdb
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.AssemblyReference.cache
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.SuggestedBindingRedirects.cache
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.Form1.resources
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.Properties.Resources.resources
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.GenerateResource.cache
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.CoreCompileInputs.cache
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.exe
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.pdb
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.FrmKategoriler.resources
+D:\SQL\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.FrmMusteri.resources
